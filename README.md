@@ -1,5 +1,6 @@
-# solana-spike
-Experiment to find out stuff about Solana
+# solana-dev-env
+
+Setting up a Solana development environment isn't particularly straightforward, and maintaining it over time isn't something I particularly want to do. I'd far rather have an dev environment that doesn't require me spending a ton of time to keep it running
 
 # gitpod environment
 
