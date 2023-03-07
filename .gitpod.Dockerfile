@@ -10,6 +10,7 @@ RUN sudo apt-get -q update \
 
 #ENV RUST_LLDB=/usr/bin/lldb-8
 
+# Install Rust
 RUN bash -cl "rustup toolchain install nightly"
 
 # Install Solana
