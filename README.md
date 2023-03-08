@@ -9,3 +9,5 @@ Opening this repo inside gitpod (i.e. https://gitpod.io/#/https://github.com/mon
 You won't be able to push anything to this repo, so it's probably best if you fork it once you're convinced it's useful for you, then work in your own forked environment where you can save your code changes.
 
 Note that you'll need to run `. ~/.profile` after the environment has been built, to get the `solana` CLI onto the path
+
+If you ever want to rebuild this environment (e.g. to update versions of all the tools), you can run `gp rebuild` inside gitpod, then go get a leisurely coffee while everything rebuilds
