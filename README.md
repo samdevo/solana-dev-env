@@ -1,6 +1,6 @@
 # solana-dev-env
 
-Setting up a Solana development environment isn't particularly straightforward, and maintaining it over time isn't something I particularly want to do. I'd far rather have an dev environment that doesn't require me spending a ton of time to keep it running
+Setting up a Solana development environment isn't particularly straightforward, and maintaining it over time on multiple laptops isn't something I particularly want to do. I'd far rather have an dev environment that builds automatically and doesn't require me spending a ton of time to keep it running
 
 ## gitpod environment
 
