@@ -20,7 +20,7 @@ You can either
 
 or 
 
-`$ docker build -t solana-dev -f docker/Dockerfile`
+`$ docker build -t solana-dev docker`
 
 to create a Docker container that contains a complete Solana dev environment
 
