@@ -1,8 +1,0 @@
-{
-    "image": "monch1962/solana-dev:latest",
-    "customizations": {
-        "vscode": {
-          "extensions": ["hbenl.vscode-test-explorer", "hbenl.test-adapter-converter"]
-        }
-    }
-}
